@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Hype\\WeGame\\MyGAME1\\android\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "outputFile": "C:\\Github\\wegame\\MyGAME1\\android\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\Hype\\WeGame\\MyGAME1\\android\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "59",
-                        "endColumns": "41",
-                        "endOffsets": "96"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "41",
-                        "endOffsets": "92"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Hype\\WeGame\\MyGAME1\\android\\res\\values\\styles.xml",
+                    "source": "C:\\Github\\wegame\\MyGAME1\\android\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -37,6 +20,23 @@
                         "endLines": "10",
                         "endColumns": "12",
                         "endOffsets": "555"
+                    }
+                },
+                {
+                    "source": "C:\\Github\\wegame\\MyGAME1\\android\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endColumns": "41",
+                        "endOffsets": "96"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
                     }
                 }
             ]
