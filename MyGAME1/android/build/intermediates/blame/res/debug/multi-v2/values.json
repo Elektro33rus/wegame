@@ -1,34 +1,10 @@
 {
     "logs": [
         {
-<<<<<<< HEAD
-            "outputFile": "C:\\Users\\Hype\\WeGame\\wegame\\MyGAME1\\android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\Hype\\WeGame\\wegame\\MyGAME1\\android\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "59",
-                        "endColumns": "41",
-                        "endOffsets": "96"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "41",
-                        "endOffsets": "92"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Hype\\WeGame\\wegame\\MyGAME1\\android\\res\\values\\styles.xml",
-=======
             "outputFile": "C:\\Github\\wegame\\MyGAME1\\android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Github\\wegame\\MyGAME1\\android\\res\\values\\styles.xml",
->>>>>>> 2424ff9263eda3c113433f00165c87beda9bd23d
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
