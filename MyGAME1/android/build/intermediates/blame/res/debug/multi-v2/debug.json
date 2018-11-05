@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Hype\\WeGame\\MyGAME1\\android\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "outputFile": "C:\\Users\\Hype\\WeGame\\wegame\\MyGAME1\\android\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\Hype\\WeGame\\MyGAME1\\android\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\Hype\\WeGame\\wegame\\MyGAME1\\android\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Hype\\WeGame\\MyGAME1\\android\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\Hype\\WeGame\\wegame\\MyGAME1\\android\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
